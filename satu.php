@@ -2,7 +2,7 @@
 // @author : Shadow Bot
 // Not For Sale 
 // Gunakan Dengan Bijak :)
-function cat(token, $jumlah, $wait){
+function cat($token, $jumlah, $wait){
     $x = 0; 
     while($x < $jumlah) {
 		
