@@ -50,5 +50,6 @@ $jvid = json_decode($result_video,true);
 if($jvid['code'] == '4040') {
 echo "$red.[!] $putih nonton video:$red ".$jvid['message']."$putih\n";
 sleep(1);
-
+exit;}
+	
 ?>
